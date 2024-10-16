@@ -4,7 +4,9 @@
 
 ⌘ in this guide refers to the command key on macos. If you are using a PC, use the control key instead.
 
-I am also not the cleanest coder, especially in my CSS modules. So keep that in mind when using this tutorial.
+I am also not the neatest coder, especially in my CSS modules. So keep that in mind when using this tutorial.
+
+This file will continue to be updated with information I think will be useful as I go along.
 
 ## Tips
 
