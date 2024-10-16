@@ -1,0 +1,23 @@
+.mainDiv {
+    padding: 10px;
+}
+
+.mainDiv h1 {
+    padding: 0;
+    margin: 0;
+}
+
+.helloButton {
+    border-radius: 10px;
+    width: 16%;
+    background-color: lightblue;
+    box-shadow: none;
+    border: 0px;
+
+
+}
+
+.helloButton:hover {
+    cursor: pointer;
+}
+
